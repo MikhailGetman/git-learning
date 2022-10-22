@@ -11,3 +11,9 @@ class Hello {
     alert("hello!")
   }
 }
+
+//третье изменения
+
+function* generator() {
+  yield 1;
+}
