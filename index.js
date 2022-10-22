@@ -23,3 +23,7 @@ function* generator() {
 (async () => {
   console.log('async')
 })();
+
+//пятое изменение
+
+const SIZE = 10_000_000 
