@@ -17,3 +17,9 @@ class Hello {
 function* generator() {
   yield 1;
 }
+
+//четвертое изменения
+
+(async () => {
+  console.log('async')
+})();
