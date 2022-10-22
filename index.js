@@ -17,3 +17,5 @@ class Hello {
 function* generator() {
   yield 1;
 }
+
+//шестое изменение
